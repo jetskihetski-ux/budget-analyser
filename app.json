@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Budget Analyser",
+    "slug": "budget-analyser",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#1E1E2E"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6C63FF"
+      },
+      "package": "com.budgetanalyser.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.budgetanalyser.app"
+    }
+  }
+}
